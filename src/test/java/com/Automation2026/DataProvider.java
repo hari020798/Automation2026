@@ -8,7 +8,7 @@ public class DataProvider {
 	
 	public static String[][] StringMethods() {
 		
-		String [] [] data = new String [3] [2];
+		String [] [] data = new String [4] [2];
 		
 		data [0] [0] = "Hariharan";
 		data [0] [1] = "25";
@@ -18,6 +18,9 @@ public class DataProvider {
 		
 		data [2] [0] = "Resh";
 		data [2] [1] = "24";
+		
+		data[3] [0] = "Manj";
+		data [3] [1] = "29";
 		
 		return data;
 		
