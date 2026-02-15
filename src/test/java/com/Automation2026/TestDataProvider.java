@@ -1,7 +1,7 @@
 package com.Automation2026;
 
 
-public class DataProvider {
+public class TestDataProvider {
 	
     
 	@org.testng.annotations.DataProvider(name = "bioData", indices = {1, 2}, parallel = false)
